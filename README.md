@@ -16,6 +16,8 @@ This project is an interactive ATM (Automated Teller Machine) simulation built u
 4. Run `npm start` to launch the application
 5. Open your browser and go to `http://localhost:3000`
 
+You can also view the deployed application [here](https://atmachine.netlify.app/).
+
 ## Technologies Used
 - React
 - JavaScript (ES6+)
